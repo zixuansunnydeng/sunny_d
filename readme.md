@@ -1,1 +1,1 @@
-This folder contains my CV.
+This folder contains my resume.
